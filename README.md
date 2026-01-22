@@ -1,14 +1,41 @@
-# AI-Knowledge-Inbox
-Turium Assignment
+# AI Knowledge Inbox
 
-Node v22 or high required. Used Gemini's LLM for quering. Please create an API key [here]([url](https://aistudio.google.com/apikey?_gl=1*13kslan*_ga*MTQ5MTk0NjI0Ni4xNzY5MDIyOTgy*_ga_P1DBVKWT6V*czE3NjkwNDUyNDEkbzMkZzEkdDE3NjkwNDUyNzQkajI3JGwwJGgxMDY2NzM1NDU3))
+**Turium Assignment**
 
-To start the application please follow these steps:
+AI Knowledge Inbox is a full-stack application that uses Google Gemini’s LLM to ingest and query knowledge from user-provided text or URLs.
 
-1. cd into backend
-2. Run npm i
-3. run node server.ts
+---
 
-4. cd into frontend
-5. run npm i
-6. run npm run dev
+## Prerequisites
+
+- Node.js v22 or higher
+- npm
+- Google Gemini API key
+
+Create your API key here:  
+https://aistudio.google.com/apikey
+
+---
+
+## Getting Started
+
+### Backend Setup
+
+1. Navigate to the backend directory:
+2. Install dependencies:
+3. Start the backend server:
+
+---
+
+### Frontend Setup
+
+1. Navigate to the frontend directory:
+2. Install dependencies:
+3. Start the development server:
+
+---
+
+## Notes
+
+- Make sure the Gemini API key is configured before starting the application.
+- The backend server must be running for the frontend to function correctly.
